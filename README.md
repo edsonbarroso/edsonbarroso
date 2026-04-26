@@ -7,12 +7,6 @@ Perfil focado em projetos pessoais, com ênfase em APIs, integrações e regras 
 
 ---
 
-## 🛠 Stack
-
-Java • SQL • APIs REST • Git • Banco de dados  
-
----
-
 ## 🚀 Foco
 
 APIs • Integrações • Lógica de negócio  
