@@ -1,16 +1,24 @@
-## Hi there 👋
+---
 
-<!--
-**edsonbarroso/edsonbarroso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Analista de Operações | Java & Integrações
 
-Here are some ideas to get you started:
+O simples que funciona.  
+Perfil focado em projetos pessoais, com ênfase em APIs, integrações e regras de negócio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Stack
+
+Java • SQL • APIs REST • Git • Banco de dados  
+
+---
+
+## 🚀 Foco
+
+APIs • Integrações • Lógica de negócio  
+
+---
+
+⚡ *Menos teoria. Mais código que resolve.*
+
+---
